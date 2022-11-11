@@ -2,7 +2,7 @@
 E-Commerce-api using Express and MongoDB. This is a basic CRUD application.
 
 
-$ Stack Used
+## Stack Used
     NodeJS
     Express
     MongoDB
